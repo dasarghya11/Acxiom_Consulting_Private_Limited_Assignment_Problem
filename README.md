@@ -1,8 +1,11 @@
 Library Management System
 
 Frontend  : JSP + HTML + CSS
+
 Backend   : Java Servlets
+
 Database  : MySQL
+
 Server    : Apache Tomcat(10.1.5)
 
 
